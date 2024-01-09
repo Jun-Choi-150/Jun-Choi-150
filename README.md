@@ -6,7 +6,7 @@
 
 <h2>💻 I'm Currently workng on</h2>
 
-- [Drinking Game Project](https://github.com/Jun-Choi-150/Drinking-Game-Project)
+- [Communiversity](https://github.com/Jun-Choi-150/communiversity)
 
 ## 🚀 About Me
 I am majoring in Computer Engineering at Iowa State University and have a deep passion for software engineering. This passion leads me to excel in developing and implementing complex software solutions.
