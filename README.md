@@ -7,7 +7,8 @@
 <h2>💻 I'm Currently workng on ... </h2>
 
 ## 🚀 About Me
-I am majoring in Computer Engineering at Iowa State University and have a deep passion for software engineering. This passion leads me to excel in developing and implementing complex software solutions.
+I am majoring in Computer Engineering at Iowa State University and have a deep passion for software engineering. 
+This passion leads me to excel in developing and implementing complex software solutions.
 
 ## 🛠 Skills
 - Programming Languages: Java, C, TypeScript, JavaScript, Python
